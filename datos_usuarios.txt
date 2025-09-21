@@ -1,0 +1,6 @@
+Mateo=vagrant > datos_usuarios.txt
+cat datos_usuarios.txt
+whoami
+
+echo 
+echo Mateo=vagrant
