@@ -4,3 +4,4 @@ whoami
 
 echo 
 echo Mateo=vagrant
+model name	: AMD Ryzen 3 3200G with Radeon Vega Graphics
